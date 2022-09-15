@@ -1,0 +1,18 @@
+- Inloggen/uitloggen
+- Inname
+	- Bon afdrukken
+- Verwerking
+	- Onderdelen verwerken
+	- Afdrukken ingenomen apparaten
+- Uitgifte
+- Navigatiestructuur (Menu)
+- Rapportages
+- Rendement?
+	- Afdrukken
+- Onderhoud
+- Medewerkers
+- Apparaten
+	- Samenstellen
+		- Bewerken
+- Onderdelen
+	- Bewerken
